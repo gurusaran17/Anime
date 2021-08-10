@@ -1,0 +1,42 @@
+/* body{
+     background-color: rgb(212, 165, 111); 
+} */
+
+h1#background{
+    background: rgb(108, 230, 77);
+    background-color: rgb(65, 154, 238); 
+    background-position: center;
+    border-style:solid;
+    text-align: center;
+}
+
+div.margin{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 35px;
+    margin-left: 35px;
+    background-color:burlywood;
+}
+
+div.margin{   
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+}
+div.margin{
+    font-family: 'Hahmlet', serif;
+}
+
+a:link{
+    color: rgb(33, 47, 243);
+}
+a:visited{
+    color: rgb(229, 62, 235);
+}
+a:active{
+    color: aqua;
+}
+a:hover{
+    color:coral
+}
